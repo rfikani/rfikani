@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Riad</h1>
-<h3 align="center">I am interested in applied electromagnetics. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rfikani&label=Profile%20views&color=0e75b6&style=flat"  />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rfikani&label=Profile%20views&color=0e75b6&style=flat" alt="rfikani" /> </p>
+
+
 
 ![8ji6jftb92w51](https://github.com/user-attachments/assets/ea4eae91-9726-4cc1-897c-26fd9a6c0b47)
 
