@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rfikani&label=Profile%20views&color=0e75b6&style=flat"  />
 
+![8ji6jftb92w51](https://github.com/user-attachments/assets/ea4eae91-9726-4cc1-897c-26fd9a6c0b47)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/  /></a> </p>
+
+
 
 - 🔭 I’m currently working on a **MoM Solver for a Delta-Gap-Fed Wire Antenna** 
 
