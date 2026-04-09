@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on a **MoM Solver for a Delta-Gap-Fed Wire Antenna** 
 
-- 🌱 I’m currently learning **RL for inverse PIC design**
-
-- 👯 I’m looking to collaborate on **a CEM/CFD project (pls reach out if you are a CFD engineer)**
+- 🌱 I’m looking to collaborate on **a CEM/CFD project (pls reach out if you are a CFD engineer)**
 
 - 📝 I like reading philosophy. Willard Van Orman Quine is my favorite philosopher, or maybe my least hated one.
 
