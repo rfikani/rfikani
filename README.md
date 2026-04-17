@@ -8,7 +8,7 @@
 
 - 📝 I like reading philosophy. Willard Van Orman Quine is my favorite philosopher, or maybe my least hated one.
 
-- 📫 How to reach me **riad[at]fikani.com**
+- 📫 How to reach me **riad[at]fikani[dot]com**
 
 
 
